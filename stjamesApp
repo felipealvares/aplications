@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8" />
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+		<meta name="author" content="Felipe Chiarelli Alvares" />
+
+		<meta name="publisher" content="NeoSeven" />
+
+		<link rel="stylesheet" href="style.css" />
+
+		<title>St James | Apresentação aplicativo (Pesquisa de pais)</title>
+
+		<!--[if lt IE 9]>
+			<script src="~/Common/Js/Html5shiv/html5shiv.js"></script>
+		<![endif]-->
+
+		<meta name="description" content="" />
+
+		<script>for (var tags = 'article aside footer header hgroup main nav section time'.split(' '), i = 0, len = tags.length; i < len; i++) document.createElement(tags[i]);</script>
+	</head>
+
+	
+	<body>
+		<main>
+			<img src="apresentacao-app.jpg" />
+		</main>
+	</body>
+</html>
